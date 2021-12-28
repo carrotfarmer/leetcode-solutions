@@ -5,3 +5,4 @@ This repo contains some of my solutions for [Leetcode](https://leetcode.com) pro
 # index
 
 [`1. Palindrome Number`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/palindrome-number.ts)
+[`2. Concatenation of Array`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/concatenation-of-array.ts)
