@@ -1,5 +1,5 @@
 // Three Consecutive Odds
-// https://leetcode.com/problems/three-consecutive-odds/submissions/
+// https://leetcode.com/problems/three-consecutive-odds/
 // [1,3,5,4,5] --> true; [1,2,4,3,5] --> false
 
 function threeConsecutiveOdds(arr: number[]): boolean {
