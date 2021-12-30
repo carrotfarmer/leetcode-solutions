@@ -1,6 +1,10 @@
 # leetcode solutions
 
 This repo contains some of my solutions for [Leetcode](https://leetcode.com) problems. They're obviously not the best and its just kept for my personal reference :)
+\
+If you wanna improve the style of the code, please feel free to open a PR and I'll look into it! Also, if the code doesn't work as expected feel free to open an issue!
+\
+**I will NOT merge a PR which offers a "better solution" because as I said, this is just for my reference.**
 
 # index
 
