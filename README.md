@@ -8,7 +8,7 @@ If you wanna improve the style of the code, please feel free to open a PR and I'
 
 # index
 
-(PS: The numbers before the name of each problem is not the leetcode number!)
+(PS: The numbers before the name of each problem is not the leetcode number!)\
 [`1. Palindrome Number`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/palindrome-number.ts)\
 [`2. Concatenation of Array`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/concatenation-of-array.ts)\
 [`3. Three Consecutive Odds`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/three-consecutive-odds.ts)\
