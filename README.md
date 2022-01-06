@@ -13,4 +13,5 @@ If you wanna improve the style of the code, please feel free to open a PR and I'
 [`2. Concatenation of Array`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/concatenation-of-array.ts)\
 [`3. Three Consecutive Odds`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/three-consecutive-odds.ts)\
 [`4. Length of last word`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/length-of-last-word.ts)\
-[`5. Majority Element`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/169.majority-element.ts)
+[`5. Majority Element`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/169.majority-element.ts)\
+[`6. Sort Array By Parity`](https://github.com/carrotfarmer/leetcode-solutions/blob/main/src/905.sort-array-by-parity.ts)
